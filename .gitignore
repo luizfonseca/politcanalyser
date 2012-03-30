@@ -5,5 +5,5 @@
 
 
 #Ignoring the node modules (you shoul run npm install for yourself dude
-./node_modules
+node_modules/
 
