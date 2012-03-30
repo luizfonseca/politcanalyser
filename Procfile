@@ -1,1 +1,1 @@
-web: lcm server -p 59317
+web: lcm server -p PORT
