@@ -4,6 +4,6 @@
 .DS_Store
 
 
-#Ignoring the node modules (you shoudl run npm install for yourself dude
+#Ignoring the node modules (you shoul run npm install for yourself dude
 ./node_modules
 
