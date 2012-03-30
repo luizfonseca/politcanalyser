@@ -1,1 +1,1 @@
-web: lcm server -p PORT
+web: lcm server -p $PORT
